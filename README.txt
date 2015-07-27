@@ -31,7 +31,7 @@ Procedural Fairings: http://forum.kerbalspaceprogram.com/threads/39512
 Procedural Parts:    http://forum.kerbalspaceprogram.com/threads/106975
 
 ===========================================================================================
-MorePruneLists Main Thread:
+MorePruneLists Main Thread: http://forum.kerbalspaceprogram.com/threads/129913
 
 Please post here if you find anything left out, or you want something else added to the list!
 Also if you make your own prune lists, it would help to post it there also so I can pick it up and add it in :)
