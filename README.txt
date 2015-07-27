@@ -1,5 +1,5 @@
 Configured for KSP 1.0.4 and AutoPruner v1.1 (2015/7/24)
-===============================================================================================================
+===========================================================================================
 How to use:
 1. Unzip contents to a desired folder
 2. Copy all .prnl files of your choice to AutoPruner/PRNLs
@@ -8,7 +8,7 @@ How to use:
 
 To check the contents of .prnl files, just open it using any text editor of your choice (ex. Notepad).
 I reccomend using Notepad++ for the purpose.
-===============================================================================================================
+===========================================================================================
 
 KW SRB list prunes all KW solid rocket boosters except the ullage motor.
 
@@ -23,14 +23,14 @@ Modified RO Global Fairings list contains a fix to include stock fairings now.
 
 Stock Fairings and HeatShield lists each prune what the name states.
 
-===============================================================================================================
+===========================================================================================
 Reccomended mods to use with the lists:
 
 B9 Procedural Parts: http://forum.kerbalspaceprogram.com/threads/104966
 Procedural Fairings: http://forum.kerbalspaceprogram.com/threads/39512
 Procedural Parts:    http://forum.kerbalspaceprogram.com/threads/106975
 
-===============================================================================================================
+===========================================================================================
 MorePruneLists Main Thread:
 
 Please post here if you find anything left out, or you want something else added to the list!
@@ -42,7 +42,7 @@ Also if you make your own prune lists, it would help to post it there also so I 
 Alternatively, post in the AutoPruner main thread linked below.
 
 AutoPruner Main Thread: http://forum.kerbalspaceprogram.com/threads/101309
-===============================================================================================================
+===========================================================================================
 "More Prune Lists" created by ebigunso
-===============================================================================================================
+===========================================================================================
 Credit to the original AutoPruner creator, Felger.
