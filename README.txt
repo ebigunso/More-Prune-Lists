@@ -23,6 +23,8 @@ Modified RO Global Fairings list contains a fix to include stock fairings now.
 
 Stock Fairings and HeatShield lists each prune what the name states.
 
+ExtraplanetaryLaunchpad UKS integration list prunes all parts from EXL excluding the SurvayStake and the Mallet, which are redundant when used with UKS.
+
 ===========================================================================================
 Reccomended mods to use with the lists:
 
